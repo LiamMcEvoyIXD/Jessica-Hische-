@@ -12,7 +12,7 @@ body { width: 75%;
        font-family: Georgia, 'libre baskerville' serif;
        margin: auto;
        background: #FFEFD5;
-       color: #333;
+       color: #2F4F4F;
        line-height: 1.8em;}
 
 header {margin: 63m 0}
@@ -20,10 +20,10 @@ header {margin: 63m 0}
 header h2 {
     font-style: italic;
     font-size: 2.2em;
-    color:#333;}
+    color: #2F4F4F;}
 h1 {
-    text-shadow: 2px 2px 2px #FF7F50;
-    color: #E9967A;}
+    text-shadow: 2px 2px 2px #5F9EA0;
+    color: #2F4F4F;}
 /*-------TYPOGRAPHY-------*/
 h1, h2, h3, {
 font-weight: normal;
@@ -92,7 +92,7 @@ color: #F0FFFF;}
 
 nav a:hover {
 border-bottom: none;
-color: #000080;}
+color: #006400;}
 
 nav:visited {
 color: #E9967A}
