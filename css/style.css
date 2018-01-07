@@ -11,7 +11,7 @@ body { width: 75%;
        max-width: 760px;
        font-family: Georgia, 'libre baskerville' serif;
        margin: auto;
-       background: #f0f0f0;
+       background: #FFEFD5;
        color: #333;
        line-height: 1.8em;}
 
@@ -22,12 +22,13 @@ header h2 {
     font-size: 2.2em;
     color:#333;}
 h1 {
-    text-shadow: 2px 2px 2px #f00;
-    color: #c06;}
+    text-shadow: 2px 2px 2px #FF7F50;
+    color: #E9967A;}
 /*-------TYPOGRAPHY-------*/
 h1, h2, h3, {
 font-weight: normal;
-color: #c06;
+color: #E9967A;}
+color: #; 
 text-align:center;
 }
 
@@ -73,7 +74,7 @@ top: 0;
 left: 0;
 margin: 0;
 width: 100%;
-background-color: #333;
+background-color: #E9967A;
 padding: 1em 0;} 
 
 nav ul {
@@ -87,14 +88,14 @@ display: inline;
 margin: 20px;}
 
 nav a:link {
-color: #fff;}
+color: #F0FFFF;}
 
 nav a:hover {
 border-bottom: none;
-color: #c06;}
+color: #000080;}
 
 nav:visited {
-color: #fff}
+color: #E9967A}
 
 
 /* --------------- IMAGES -------------- */
@@ -125,27 +126,3 @@ margin-top: 2em;
 
 footer a {
 color: #c06;}
-
-/* --------TABLE-------*/
-
-table{
-    margin: auto;
-    display: table;
-    border-collapse: collapse;
-    border-spacing: 2px;
-    margin-bottom: 20em;
-    
-}
-caption {
-    margin-bottom: 1.5em;
-    text-transform: uppercase;
-    font-weight: normal;
-    text-align: left;
-    background: #c06;}
-
-th, td {
-    padding: .6em}
-    
-table, td {
-    background: #BFBEBB;
-    border: 1px solid #fff}
